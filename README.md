@@ -1,7 +1,7 @@
 Django-Modules
 ==============
 
-Simple list of cool django modules.
+Simple list of cool django modules that worked fine across multiple projects.
 
 
 'mptt',
