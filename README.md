@@ -21,16 +21,10 @@ http://django-modeltranslation.readthedocs.org/
 ```sh
 pip install django-modeltranslation
 ```
-```python
-INSTALLED_APPS += ('modeltranslation',)
-```
 ###Rosetta
 https://github.com/mbi/django-rosetta
 ```sh
 pip install django-rosetta
-```
-```python
-INSTALLED_APPS += ('rosetta',)
 ```
 ##Utils
 ###django-braces
