@@ -18,7 +18,7 @@ Simple list of cool django modules that worked fine across multiple projects.
 
 
 
-####TRANSLATION
+####Translation
 http://django-modeltranslation.readthedocs.org/
 ```sh
 pip install django-modeltranslation
@@ -27,7 +27,7 @@ pip install django-modeltranslation
 INSTALLED_APPS += ('modeltranslation',)
 ```
 
-####UTILS
+####Utils
 http://django-braces.readthedocs.org/
 ```sh
 pip install django-braces
