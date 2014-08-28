@@ -3,7 +3,7 @@ Django-Modules
 
 Simple list of cool django modules that worked fine across multiple projects.
 
-
+```
 'mptt',
 'south',
 'debug_toolbar',
@@ -13,10 +13,9 @@ Simple list of cool django modules that worked fine across multiple projects.
 'categories',
 'categories.editor'
 'djcelery'
+```
 
-
-
-####Translation
+##Translation
 http://django-modeltranslation.readthedocs.org/
 ```sh
 pip install django-modeltranslation
@@ -31,13 +30,13 @@ pip install django-rosetta
 ```python
 INSTALLED_APPS += ('rosetta',)
 ```
-####Utils
+##Utils
 http://django-braces.readthedocs.org/
 ```sh
 pip install django-braces
 ```
 
-####Auth
+##Auth
 http://django-allauth.readthedocs.org/
 ```sh
 pip install django-allauth
