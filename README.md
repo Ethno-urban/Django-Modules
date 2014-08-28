@@ -25,4 +25,8 @@ pip install django-modeltranslation
 'modeltranslation',
 ```
 
-
+####UTILS
+http://django-braces.readthedocs.org/
+```sh
+pip install django-braces
+```
