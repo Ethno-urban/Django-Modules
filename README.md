@@ -7,9 +7,7 @@ Simple list of cool django modules that worked fine across multiple projects.
 'mptt',
 'south',
 'debug_toolbar',
-'crispy_forms',
 'easy_thumbnails',
-'haystack',
 'categories',
 'categories.editor'
 'djcelery'
