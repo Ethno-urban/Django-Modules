@@ -32,3 +32,19 @@ http://django-braces.readthedocs.org/
 ```sh
 pip install django-braces
 ```
+
+####Auth
+http://django-allauth.readthedocs.org/
+```sh
+pip install django-allauth
+```
+
+http://django-userena.readthedocs.org/
+```sh
+pip install django-userena
+```
+
+http://python-social-auth.readthedocs.org/
+```sh
+pip install python-social-auth
+```
