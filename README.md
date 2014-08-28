@@ -24,7 +24,7 @@ http://django-modeltranslation.readthedocs.org/
 pip install django-modeltranslation
 ```
 ```
-APPS += ['modeltranslation']
+INSTALLED_APPS += ('modeltranslation',)
 ```
 
 ####UTILS
