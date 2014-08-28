@@ -23,7 +23,7 @@ http://django-modeltranslation.readthedocs.org/
 ```sh
 pip install django-modeltranslation
 ```
-```
+```python
 INSTALLED_APPS += ('modeltranslation',)
 ```
 
