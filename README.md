@@ -37,6 +37,11 @@ http://django-sekizai.readthedocs.org/
 ```sh
 pip install django-sekizai
 ```
+###django-countries
+https://github.com/SmileyChris/django-countries
+```sh
+pip install django-countries
+```
 
 ##Auth
 ###django-allauth
