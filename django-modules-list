@@ -1,0 +1,12 @@
+'mptt',
+'south',
+'debug_toolbar',
+'crispy_forms',
+'easy_thumbnails',
+'haystack',
+'userena',
+'social.apps.django_app.default',
+'rosetta',
+'categories',
+'categories.editor'
+'djcelery'
