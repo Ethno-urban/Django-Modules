@@ -22,5 +22,7 @@ TRANSLATION
 ===========
 
 pip install django-modeltranslation
+
 http://django-modeltranslation.readthedocs.org/en/latest/installation.html
+
 'modeltranslation',
