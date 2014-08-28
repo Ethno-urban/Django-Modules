@@ -16,6 +16,7 @@ Simple list of cool django modules that worked fine across multiple projects.
 ```
 
 ##Translation
+###Modeltranslation
 http://django-modeltranslation.readthedocs.org/
 ```sh
 pip install django-modeltranslation
@@ -23,6 +24,7 @@ pip install django-modeltranslation
 ```python
 INSTALLED_APPS += ('modeltranslation',)
 ```
+###Rosetta
 https://github.com/mbi/django-rosetta
 ```sh
 pip install django-rosetta
@@ -31,22 +33,26 @@ pip install django-rosetta
 INSTALLED_APPS += ('rosetta',)
 ```
 ##Utils
+###django-braces
 http://django-braces.readthedocs.org/
 ```sh
 pip install django-braces
 ```
 
 ##Auth
+###django-allauth
 http://django-allauth.readthedocs.org/
 ```sh
 pip install django-allauth
 ```
 
+###Userena
 http://django-userena.readthedocs.org/
 ```sh
 pip install django-userena
 ```
 
+###Python Social Auth
 http://python-social-auth.readthedocs.org/
 ```sh
 pip install python-social-auth
