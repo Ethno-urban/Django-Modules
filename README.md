@@ -10,8 +10,6 @@ Simple list of cool django modules that worked fine across multiple projects.
 'crispy_forms',
 'easy_thumbnails',
 'haystack',
-'userena',
-'rosetta',
 'categories',
 'categories.editor'
 'djcelery'
