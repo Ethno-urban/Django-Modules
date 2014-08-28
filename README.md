@@ -42,6 +42,11 @@ https://github.com/SmileyChris/django-countries
 ```sh
 pip install django-countries
 ```
+###micawber
+http://micawber.readthedocs.org/
+```sh
+pip install micawber
+```
 
 ##Auth
 ###django-allauth
