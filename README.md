@@ -80,3 +80,10 @@ http://django-crispy-forms.readthedocs.org/
 ```sh
 pip install django-crispy-forms
 ```
+
+##Search
+###Haystack
+http://django-haystack.readthedocs.org/
+```sh
+pip install django-haystack
+```
