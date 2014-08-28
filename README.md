@@ -61,3 +61,9 @@ http://python-social-auth.readthedocs.org/
 ```sh
 pip install python-social-auth
 ```
+
+##Images
+###Easy Thumbnails
+```sh
+pip install easy-thumbnails
+```
