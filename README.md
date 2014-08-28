@@ -22,8 +22,8 @@ Simple list of cool django modules that worked fine across multiple projects.
 http://django-modeltranslation.readthedocs.org/
 ```sh
 pip install django-modeltranslation
-'modeltranslation',
 ```
+APPS += ['modeltranslation']
 
 ####UTILS
 http://django-braces.readthedocs.org/
