@@ -26,7 +26,13 @@ pip install django-modeltranslation
 ```python
 INSTALLED_APPS += ('modeltranslation',)
 ```
-
+https://github.com/mbi/django-rosetta
+```sh
+pip install django-rosetta
+```
+```python
+INSTALLED_APPS += ('rosetta',)
+```
 ####Utils
 http://django-braces.readthedocs.org/
 ```sh
