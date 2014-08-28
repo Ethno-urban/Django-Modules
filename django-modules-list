@@ -5,7 +5,6 @@
 'easy_thumbnails',
 'haystack',
 'userena',
-'social.apps.django_app.default',
 'rosetta',
 'categories',
 'categories.editor'
