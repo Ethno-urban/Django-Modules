@@ -32,6 +32,11 @@ http://django-braces.readthedocs.org/
 ```sh
 pip install django-braces
 ```
+###django-sekizai
+http://django-sekizai.readthedocs.org/
+```sh
+pip install django-sekizai
+```
 
 ##Auth
 ###django-allauth
