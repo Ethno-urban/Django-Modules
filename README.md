@@ -19,7 +19,7 @@ Simple list of cool django modules.
 
 
 ####TRANSLATION
-http://django-modeltranslation.readthedocs.org/en/latest/installation.html
+http://django-modeltranslation.readthedocs.org/
 ```sh
 pip install django-modeltranslation
 'modeltranslation',
