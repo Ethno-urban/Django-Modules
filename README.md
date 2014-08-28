@@ -64,6 +64,14 @@ pip install python-social-auth
 
 ##Images
 ###Easy Thumbnails
+http://easy-thumbnails.readthedocs.org/
 ```sh
 pip install easy-thumbnails
+```
+
+##Forms
+###Django-crispy-forms
+http://django-crispy-forms.readthedocs.org/
+```sh
+pip install django-crispy-forms
 ```
