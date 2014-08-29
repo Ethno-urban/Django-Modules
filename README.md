@@ -4,14 +4,21 @@ Django-Modules
 Simple list of cool django modules that worked fine across multiple projects.
 
 ```
-'mptt',
 'south',
 'debug_toolbar',
-'categories',
-'categories.editor'
 'djcelery'
 ```
-
+##Categories
+###django-categories
+http://django-categories.readthedocs.org/
+```sh
+pip install django-categories
+```
+###django-mptt
+http://django-mptt.readthedocs.org/
+```sh
+pip install django-mptt
+```
 ##Translation
 ###Modeltranslation
 http://django-modeltranslation.readthedocs.org/
