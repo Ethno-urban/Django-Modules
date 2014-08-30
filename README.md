@@ -52,6 +52,13 @@ http://micawber.readthedocs.org/
 pip install micawber
 ```
 
+###python-slugify
+https://github.com/un33k/python-slugify
+```sh
+pip install python-slugify
+```
+
+
 ##Auth
 ###django-allauth
 http://django-allauth.readthedocs.org/
