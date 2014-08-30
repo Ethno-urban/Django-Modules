@@ -9,43 +9,52 @@ Simple list of cool django modules that worked fine across multiple projects.
 'djcelery'
 ```
 ##Categories
+
 ###django-categories
 http://django-categories.readthedocs.org/
 ```sh
 pip install django-categories
 ```
+
 ###django-mptt
 http://django-mptt.readthedocs.org/
 ```sh
 pip install django-mptt
 ```
+
 ##Translation
+
 ###Modeltranslation
 http://django-modeltranslation.readthedocs.org/
 ```sh
 pip install django-modeltranslation
 ```
+
 ###Rosetta
 https://github.com/mbi/django-rosetta
 ```sh
 pip install django-rosetta
 ```
+
 ##Utils
 ###django-braces
 http://django-braces.readthedocs.org/
 ```sh
 pip install django-braces
 ```
+
 ###django-sekizai
 http://django-sekizai.readthedocs.org/
 ```sh
 pip install django-sekizai
 ```
+
 ###django-countries
 https://github.com/SmileyChris/django-countries
 ```sh
 pip install django-countries
 ```
+
 ###micawber
 http://micawber.readthedocs.org/
 ```sh
@@ -58,8 +67,8 @@ https://github.com/un33k/python-slugify
 pip install python-slugify
 ```
 
-
 ##Auth
+
 ###django-allauth
 http://django-allauth.readthedocs.org/
 ```sh
