@@ -4,7 +4,6 @@ Django-Modules
 Simple list of cool django modules that worked fine across multiple projects.
 
 ```
-'south',
 'debug_toolbar',
 'djcelery'
 ```
