@@ -43,6 +43,12 @@ http://django-braces.readthedocs.org/
 pip install django-braces
 ```
 
+###django-extra-views
+https://github.com/AndrewIngram/django-extra-views
+```sh
+pip install django-extra-views
+```
+
 ###django-sekizai
 http://django-sekizai.readthedocs.org/
 ```sh
