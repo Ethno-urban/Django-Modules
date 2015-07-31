@@ -3,10 +3,6 @@ Django-Modules
 
 Simple list of cool django modules that worked fine across multiple projects.
 
-```
-'debug_toolbar',
-'djcelery'
-```
 ##Categories
 
 ###django-categories
@@ -19,6 +15,12 @@ pip install django-categories
 http://django-mptt.readthedocs.org/
 ```sh
 pip install django-mptt
+```
+
+###django-treebeard
+https://tabo.pe/projects/django-treebeard/docs/tip/
+```sh
+pip install django-treebeard
 ```
 
 ##Translation
@@ -73,18 +75,18 @@ https://github.com/un33k/python-slugify
 pip install python-slugify
 ```
 
+###django-debug-toolbar
+http://django-debug-toolbar.readthedocs.org/
+```sh
+pip install django-debug-toolbar
+```
+
 ##Auth
 
 ###django-allauth
 http://django-allauth.readthedocs.org/
 ```sh
 pip install django-allauth
-```
-
-###Userena
-http://django-userena.readthedocs.org/
-```sh
-pip install django-userena
 ```
 
 ###Python Social Auth
@@ -95,7 +97,7 @@ pip install python-social-auth
 
 ##Images
 
-###Easy Thumbnails
+###easy-thumbnails
 http://easy-thumbnails.readthedocs.org/
 ```sh
 pip install easy-thumbnails
@@ -103,7 +105,7 @@ pip install easy-thumbnails
 
 ##Forms
 
-###Django-crispy-forms
+###django-crispy-forms
 http://django-crispy-forms.readthedocs.org/
 ```sh
 pip install django-crispy-forms
