@@ -118,3 +118,11 @@ http://django-haystack.readthedocs.org/
 ```sh
 pip install django-haystack
 ```
+
+##Cache
+
+###Cacheops
+https://github.com/Suor/django-cacheops
+```sh
+pip install django-cacheops
+```
